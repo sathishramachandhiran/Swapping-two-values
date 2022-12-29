@@ -41,8 +41,7 @@ print("Swapped values are:",n1,n2)
 ```
 ## OUTPUT :
 
-![swapping](https://user-images.githubusercontent.com/120574768/209968885-a7594964-6098-4128-b8e2-03335320e82d.png)
-
+![swapping](https://user-images.githubusercontent.com/120574768/209969344-b81d522b-a73d-437b-a861-f73055592081.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
